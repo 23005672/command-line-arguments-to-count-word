@@ -33,6 +33,7 @@ f1.close()
 ```
 
 ### OUTPUT:
+<img width="407" alt="command" src="https://github.com/23005672/command-line-arguments-to-count-word/assets/138971519/4a995a77-d2bc-4246-aa3d-d231edf496dd">
 
 
 
