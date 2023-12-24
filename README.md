@@ -6,18 +6,31 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
+Import the sys.
 ### Step 2: 
- 
+Open the file and assign it to data.
 ### Step 3: 
-
+Read the file and assign it to data.
 ### Step 4:  
-
+Split the data(data.split()).
 ### Step 5: 
-
+Print the word count by len(word).
 ### Step 6: 
-
+Close the file f1.
 ## PROGRAM:
+
+```Python
+#python program for command-line-arguments
+#Devloped by : RIYA P L
+#Reference no : 23005672
+
+import sys
+f1=open(sys.argv[0])
+data=f1.read()
+word=data.split()
+print("The word count is",len(word))
+f1.close()
+```
 
 ### OUTPUT:
 
